@@ -1,4 +1,0 @@
-1. esta linea si sirve
-//2. esta linea no sirve
-3. esta li ea si sirve
-//4, esta linea no sirve 
